@@ -1,0 +1,6 @@
+if SHIELD_CFANG
+
+config ZMK_KEYBOARD_NAME
+    default "c-fang"
+
+endif # SHIELD_CFANG
